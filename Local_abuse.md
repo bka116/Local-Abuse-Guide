@@ -112,7 +112,7 @@ https://plati.market/ https://funpay.com/ https://ggsel.net/ https://www.g2g.com
 
 ###  Антидетект-браузеры (ADS)
 Просто "чистого браузера" мало. Для серьезной работы нужны:
-* **Dolphin{anty} / AdsPower / Incogniton:** Позволяют создавать сотни профилей, где у каждого свой уникальный "отпечаток" железа (Canvas, WebGL, AudioContext). Без этого массовые регистрации будут улетать в бан.
+* **Dolphin{anty} / AdsPower / Incogniton / GoLogin: ** Позволяют создавать сотни профилей, где у каждого свой уникальный "отпечаток" железа (Canvas, WebGL, AudioContext). Без этого массовые регистрации будут улетать в бан.
 
 ###  Гайд по Google 300$
 
